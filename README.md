@@ -1,3 +1,5 @@
+https://github.com/arubisov/cs182
+
 # CS182 (Spring 2021) at UC Berkeley
 
 Self-study of CS182 (Spring 2021) at UC Berkeley - Designing, Visualizing and Understanding Deep Neural Networks. [Course homepage found here](https://cs182sp21.github.io/). This repo contains my solutions to the four homework assignments. Lecture videos can be found in [this YouTube playlist](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A). 
